@@ -1,0 +1,15 @@
+{
+  "name": "studio-static",
+  "version": "0.0.1",
+  "description": "Static file server for studio projects",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Jeff Douglas <jeff@appirio> (http://blog.jeffdouglas.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.4.5",
+    "connect-wwwhisper": "*"
+  }
+}
